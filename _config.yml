@@ -1,4 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: Sricharan Sunder
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 permalink: /blog/:year/:month/:day/:title
+plugins: jekyll-include-cache 
