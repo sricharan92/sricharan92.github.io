@@ -1,3 +1,8 @@
+---
+title: "Testing"
+status: publish
+type: post
+---
 # Issues faced while doing preproc in FT
 
 ## The sample occurs twice in the data while doing ft_redefinetrial
