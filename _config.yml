@@ -1,4 +1,10 @@
 name: Sricharan Sunder
+author:
+  name: Sricharan Sunder
+  email: sricharan.iisc@gmail.com
+  github: sricharan92
+production_url: https://sricharan92.github.io/
+BASE_PATH: https://sricharan92.github.io/
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 permalink: /blog/:year/:month/:day/:title
