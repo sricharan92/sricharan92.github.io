@@ -1,5 +1,5 @@
 ---
-title: "Testing"
+title: "Getting started with GitHub Pages"
 status: publish
 type: post
 ---
