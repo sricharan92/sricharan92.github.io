@@ -2,10 +2,8 @@ main:
   - title: "About me"
     url: /#about
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
