@@ -40,12 +40,20 @@ What should be considered different types of prioritization and what as the same
 		* It doesn't! I can have 2 3-dimensional point clouds which can be linearly separable! Wtf. 
 
 *INSIGHT 2*
-* The priority modulation scales the population vector (supposed to represent identity) without changing the orientation of the vector (priority coding doesn't change the identity) -- The population vectors need to be eigen? 
-	* They say modulations of population response could be large without having a large change in choices (but if it's a gain modulation, you'd get perceptual changes?) - This would be true with magnitude coding right? 
-* In fig 3a, I will still have an increased d' between pink and grey clouds after multiplicative scaling. How does this explain no change in behaviour?
+* Subspace in which priority is associated with response modulations seems to be such that it doesn't affect the identity
+* This is also in line with magnitude coding hypotheses where priority coding multiplicatively scales but doesn't change representation -- but here the sensitivity will increase with the scaling, thus affecting behaviour
+* The subspace intuition gives a way to interpret behavioural modulations which are observed even when there is not a large change in the population response as a result of priority coding 
+	* A communication subspace idea suggests that the activity modulation in dimensions aligned with behaviourally relevant variables should affect behaviour
+
 
 *INSIGHT 3*
+* Different forms of prioritization affect partially overlapping subspaces of activity (not super orthogonal?)
+	* Since different forms of prioritization affect the grand mean firing rate they imply some correlation with the magnitude dimension
+	* This means that from the magnitude, we can read out that some (or many) priority codes are active. But how does the brain separate those? 
+		* Although these codes have some projection on the magnitude coding axis, they are inherently low dim, that is, they are only weakly correlated with each other -- This allows the brain to separate these different priority codes? 
 
+
+## How and where can we use these insights in the lab?
 
 ---
 * TODO Read Marlene's Science 2018 study -- what does it say? (Cited as study showing reduction of noise correlations with learning)
