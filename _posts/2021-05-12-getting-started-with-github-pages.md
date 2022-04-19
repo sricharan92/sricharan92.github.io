@@ -31,7 +31,7 @@ defaults:
 
 The above snippet, taken from my `_config.yml` file, defines the defaults for pages of type `posts`.  
 
-I installed my present theme as a **gem**. A gem is a software package that can be easily installed and used for your project. Installing my theme as a gem abstracts me from the files that the theme might require to function, for example, the css files, layout files, among other things. Since I don't have the files pertaining to the theme locally, being up-to-date with the present version of the theme also becomes incredibly simple. I just have to update the gem 🙂. You put all the gems you want installed for your website in a `Gemfile` and then use a gem called `bundler` to install or update  them all at once. Pretty neat! 
+I installed my present theme as a **gem**. A gem is a software package that can be easily installed and used for your project. Installing my theme as a gem abstracts me from the files that the theme might require to function, for example, the css files, layout files, among other things. Since I don't have the files pertaining to the theme locally, being up-to-date with the present version of the theme also becomes incredibly simple. I just have to update the gem 🙂. You put all the gems you want installed for your website in a `Gemfile` and then use a gem called `bundler` to install or update them all at once. Pretty neat! 
 
 To get your website up and running quickly using minimal mistakes, it's a good idea to start with their [starter template](https://github.com/mmistakes/mm-github-pages-starter). This will get you up and going pretty soon and save you a LOT of googling (speaking from limited experience...)
 
