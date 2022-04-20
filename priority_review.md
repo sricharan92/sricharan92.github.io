@@ -52,6 +52,24 @@ What should be considered different types of prioritization and what as the same
 	* This means that from the magnitude, we can read out that some (or many) priority codes are active. But how does the brain separate those? 
 		* Although these codes have some projection on the magnitude coding axis, they are inherently low dim, that is, they are only weakly correlated with each other -- This allows the brain to separate these different priority codes? 
 
+*INSIGHT 4* 
+* Communication between areas can be made better *without* changing the communication subspace dimensionality but just by increasing fidelity within the communication subspace
+	* They refer to ruff and cohen study where shifting attention between opposite hemifields has negligible effects on the representation (amount of information and subspace) but changes the representations (rather than the decoding strategy!)
+	* How does the changing of alignment in communication subspaces look like in the population activity?
+
+* Priority coding has a unified code (in the sense of magnitude coding) but also separate from each other since different priority codes are only partially overlapping
+
+## Future directions 
+
+* Could help constrain network model assumptions (make the communication subspace low-dimensional). But model networks can't perform tasks for which prioritization is necessary?
+* DANNs - another class of models used to understand representations in the brain (different layers correlate with different areas' representations)
+	* Memorability coding emerges from these networks -- Layer correlated with IT responds highly to some objects and these objects' memorability high in humans
+	* Strength 1 - They can be used to explain single neuron (or population) responses to complex stimuli
+	* Strength 2 - They help us understand nuisance variation (variation along dimensions not relevant to task) - help us understand transformation along the ventral stream (from highly non-linear to linear formats in later areas)
+	* Drawback -> They lack trial-to-trial variability
+* In a model, we can achieve prioritization by modulating populations response (small EI ratio changes)
+	* This trickles to downstream areas and since these are multiplicative, identity is not affected
+	* But do these support the neural correlates of priority coding seen in recordings?
 
 ## How and where can we use these insights in the lab?
 
