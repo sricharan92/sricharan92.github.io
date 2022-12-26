@@ -6,7 +6,7 @@ permalink: /
 share: False
 classes: narrow
 header:
-  image: /assets/images/about/O1.png
+  image: /assets/images/about/dallE_neurons_notations.png
   title: ''
   type: "center"
 ---
