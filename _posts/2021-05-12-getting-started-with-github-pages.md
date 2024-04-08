@@ -72,6 +72,11 @@ Once you are satisfied with the updates you've made, commit those changes to you
 
 There is probably a lot more that I need to explore and a lot of unknown unknowns as well. Hopefully the fog will clear up as I keep writing here and updating this website! 
 
+### Issues
+
+*Theme changes reflect in the local server but not after pushing it*: 
+This takes ~10 minutes to update on the website. 
+
 Cheers, 
 
 Sricharan
