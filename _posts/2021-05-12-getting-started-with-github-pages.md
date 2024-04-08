@@ -5,6 +5,9 @@ type: post
 classes: wide
 toc: true
 ---
+
+* This page will be updated and refined as I learn more about GitHub Pages + Jekyll *
+
 I have been thinking about starting a blog for a long time now and realised it is time I just took that step and see where it takes me. Much better than thinking of all the possibilities, getting overwhelmed and doing nothing — hopefully. 
 
 ### The basics
@@ -57,10 +60,8 @@ You should typically test your website locally before you host it online. This i
 1. It does not break the already hosted website
 2. The hosted website takes a while to get updated after you push it 
 
-TIP: It typically takes about 10-20 min the first time you host with a new theme. Thus, if it doesn't show up immediately, or if only the theme doesn't get applied but content shows up, it's a good idea to wait before freaking out and compulsively googling for solutions (like I did!) ... [Eventually, after trying multiple things, I gave up and distracted myself by binge-watching [fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series)) for an hour and came back to a functional website!]
+TIP: It typically takes a couple minutes for the changes to reflect on your webpage. 
 
-What changes reflect without restarting a server? 
-ummm
 To test the website locally, run `bundle exec jekyll serve`. Once it builds without errors, you can access your website at `127.0.0.1:4000` 
 
 ### Push to production
