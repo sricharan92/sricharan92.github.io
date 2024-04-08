@@ -2,6 +2,8 @@
 title: "Getting started with GitHub Pages"
 status: publish
 type: post
+classes: wide
+toc: true
 ---
 I have been thinking about starting a blog for a long time now and realised it is time I just took that step and see where it takes me. Much better than thinking of all the possibilities, getting overwhelmed and doing nothing — hopefully. 
 
@@ -57,6 +59,8 @@ You should typically test your website locally before you host it online. This i
 
 TIP: It typically takes about 10-20 min the first time you host with a new theme. Thus, if it doesn't show up immediately, or if only the theme doesn't get applied but content shows up, it's a good idea to wait before freaking out and compulsively googling for solutions (like I did!) ... [Eventually, after trying multiple things, I gave up and distracted myself by binge-watching [fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series)) for an hour and came back to a functional website!]
 
+What changes reflect without restarting a server? 
+ummm
 To test the website locally, run `bundle exec jekyll serve`. Once it builds without errors, you can access your website at `127.0.0.1:4000` 
 
 ### Push to production
