@@ -12,7 +12,9 @@ I have been thinking about starting a blog for a long time now and realised it i
 
 ### The basics
 
-For blogging, I decided to go with [GitHub Pages](https://pages.github.com) + [Jekyll](https://jekyllrb.com). GitHub Pages is a tool to build websites without a lot of the know-how of building them. I don't need to maintain databases or have knowledge of front end design languages like `css` and `javascript`. Jekyll is a tool that helps abstract the user from the backend even further. It helps convert plain text (usually in markdown) to beautiful web content. 
+For blogging, I decided to go with [GitHub Pages](https://pages.github.com) + [Jekyll](https://jekyllrb.com). For creating this website, I learnt a lot from [Jekyll's Documentation](https://jekyllrb.com/docs/).
+
+GitHub Pages is a tool to build websites without a lot of the know-how of building them. I don't need to maintain databases or have knowledge of front end design languages like `css` and `javascript`. Jekyll is a tool that helps abstract the user from the backend even further. It helps convert plain text (usually in markdown) to beautiful web content. 
 
 I found it useful to start by choosing a theme first. The theme I am presently using here is [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes). Apart from the design aspects set as defaults, a theme also usually allows you to modify a lot of parameters. These options could be general for the website or for a particular type of page like a **post**.  ****A general option could be if you want a 'dark' version or 'light' version of the theme. All of these general options and defaults for different pages are set in `_config.yml` which is one of the most important files for your website.  
 
