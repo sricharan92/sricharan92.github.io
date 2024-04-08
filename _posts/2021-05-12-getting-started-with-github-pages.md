@@ -6,7 +6,7 @@ classes: wide
 toc: true
 ---
 
-* This page will be updated and refined as I learn more about GitHub Pages + Jekyll *
+**This page will be updated and refined as I learn more about GitHub Pages + Jekyll**
 
 I have been thinking about starting a blog for a long time now and realised it is time I just took that step and see where it takes me. Much better than thinking of all the possibilities, getting overwhelmed and doing nothing — hopefully. 
 
