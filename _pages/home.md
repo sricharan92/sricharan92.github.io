@@ -1,14 +1,9 @@
 ---
-layout: splash
-author_profile: False
-read_time: False
+layout: single
+author_profile: true
+read_time: false
 permalink: /
-share: False
-classes: narrow
-header:
-  image: /assets/images/about/dallE_resized.png
-  title: ''
-  type: "center"
+share: false
 ---
 
 <a name="about"></a>
