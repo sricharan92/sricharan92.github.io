@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-status: publish
+published: false
 type: post
 ---
 # Issues faced while doing preproc in FT
