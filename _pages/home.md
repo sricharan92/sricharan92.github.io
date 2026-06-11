@@ -9,7 +9,9 @@ share: false
 <a name="about"></a>
 ## Welcome
 
-Hi! I am Sricharan. I am a graduate student at the [Cognition Lab, Center for Neuroscience](http://www.cns.iisc.ac.in/sridhar/) at the [Indian Institute of Science](https://iisc.ac.in/) (IISc). I work here on questions pertaining to attention, decision-making and cognition. To study this I use EEG recordings in conjunction with behaviour and computational modelling. 
+Hi! I am Sricharan (SC). I am a Research Scientist at Lumos Labs (Lumosity) where I work on deriving insights from gameplay behavioral metrics using computational models. 
+
+In 2025, I finished my PhD in Cognitive Neuroscience at the [Cognition Lab, Center for Neuroscience](http://www.cns.iisc.ac.in/sridhar/) at the [Indian Institute of Science](https://iisc.ac.in/) (IISc). My work here involved investigating the neural, behavioral and computational signatures underlying spatial attention and spatial expectation. To study this I used EEG recordings in conjunction with behaviour and computational modeling. 
 
 I did my undergraduate studies in Metallurgical and Materials Engineering at the [Indian Institute of Technology, Kharagpur][kgp]. Towards the later part of my degree, I got interested in Machine Learning and Neuroscience through Coursera and an internship at [Mad Street Den](https://www.madstreetden.com/). Thus, after completing my degree, I ended up with a research position in [Vision Lab](https://sites.google.com/site/visionlabiisc/) at IISc. 
 
