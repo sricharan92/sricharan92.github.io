@@ -4,7 +4,12 @@ author_profile: true
 read_time: false
 permalink: /
 share: false
+classes: wide
 ---
+
+<style>
+.page__content p { text-align: justify; }
+</style>
 
 <a name="about"></a>
 ## Welcome
